@@ -1,0 +1,9 @@
+{
+    "images":[
+        {
+            "src":"main-bkgd.png",
+            "name":"StartImage",
+            "type":"image"
+        }    
+    ]
+}
